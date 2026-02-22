@@ -1,9 +1,17 @@
-# Tarea-01---PDS
-Primer tarea de la materia de Procesamiento Digital de Señales
-Alumnos:
-	* Hernández González Andrés Sebastian
-	* Luna Reyes Javier
+# Tarea 01 — PDS
 
-Materia:Procesamiento Digital de Señales
-Gpo. 04
-Para ver el codigo que da solucion a diversos ejercicios, esta en la siguiente liga: https://colab.research.google.com/drive/1LZ2_vChfBnaTX59tMJW9YlJVU34eJ_AH?usp=sharing
+**Primera tarea de la materia de Procesamiento Digital de Señales**
+
+## Alumnos
+- Hernández González Andrés Sebastian
+- Luna Reyes Javier
+
+## Materia
+Procesamiento Digital de Señales  
+
+**Grupo:** 04
+
+## Código
+Para consultar la implementación y solución de los ejercicios desarrollados en esta tarea, accede al siguiente notebook en Google Colab:
+
+[Abrir en Google Colab](https://colab.research.google.com/drive/1LZ2_vChfBnaTX59tMJW9YlJVU34eJ_AH?usp=sharing)
